@@ -21,104 +21,104 @@ https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=5765
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>A review of spline function procedures in R</strong></summary>
+  <summary>**A review of spline function procedures in R**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Analysis of time‐to‐event for observational studies: Guidance to the use of intensity models</strong></summary>
+  <summary>**Analysis of time‐to‐event for observational studies: Guidance to the use of intensity models**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Assessing Performance and Clinical Usefulness in Prediction Models With Survival Outcomes: Practical Guidance for Cox Proportional Hazards Models</strong></summary>
+  <summary>**Assessing Performance and Clinical Usefulness in Prediction Models With Survival Outcomes: Practical Guidance for Cox Proportional Hazards Models**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Epidemiologic analyses with error-prone exposures: review of current practice and recommendations</strong></summary>
+  <summary>**Epidemiologic analyses with error-prone exposures: review of current practice and recommendations**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Formulating causal questions and principled statistical answers</strong></summary>
+  <summary>**Formulating causal questions and principled statistical answers**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Framework for the treatment and reporting of missing data in observational studies: The Treatment And Reporting of Missing Data in Observational Studies framework</strong></summary>
+  <summary>**Framework for the treatment and reporting of missing data in observational studies: The Treatment And Reporting of Missing Data in Observational Studies framework**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Hidden analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses</strong></summary>
+  <summary>**Hidden analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Issues in Implementing Regression Calibration Analyses</strong></summary>
+  <summary>**Issues in Implementing Regression Calibration Analyses**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Introduction to statistical simulations in health research</strong></summary>
+  <summary>**Introduction to statistical simulations in health research**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Regression without regrets – initial data analysis is a prerequisite for multivariable regression</strong></summary>
+  <summary>**Regression without regrets – initial data analysis is a prerequisite for multivariable regression**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Statistical analysis of high-dimensional biomedical data: a gentle introduction to analytical goals, common approaches and challenges</strong></summary>
+  <summary>**Statistical analysis of high-dimensional biomedical data: a gentle introduction to analytical goals, common approaches and challenges**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 1—Basic theory and simple methods of adjustment</strong></summary>
+  <summary>**STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 1—Basic theory and simple methods of adjustment**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 2—More complex methods of adjustment and advanced topics</strong></summary>
+  <summary>**STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 2—More complex methods of adjustment and advanced topics**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Three myths about risk thresholds for prediction models</strong></summary>
+  <summary>**Three myths about risk thresholds for prediction models**</summary>
   <br>
 </details>
 
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Validation of prediction models in the presence of competing risks: a guide through modern methods</strong></summary>
+  <summary>**Validation of prediction models in the presence of competing risks: a guide through modern methods**</summary>
   <br>
 </details>
