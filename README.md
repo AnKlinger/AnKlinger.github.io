@@ -11,7 +11,9 @@ The high quality STRATOS publications use and analyse various datasets. This web
 
 <summary>A Comparison of Three Popular Methods for Handling Missing Data: Complete-Case Analysis, Inverse Probability Weighting, and Multiple Imputation</summary>
 
-\nThe Dataset is from the Youth Cohort Time Series for England, Wales and Scotland, 1984-2002
+<br>
+
+The Dataset is from the Youth Cohort Time Series for England, Wales and Scotland, 1984-2002
 
 https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=5765
 
