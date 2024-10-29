@@ -9,7 +9,7 @@ Keep in mind that only publications that use data are listed here.
 
 <!-- Publication --> 
 <details>
-<summary>A Comparison of Three Popular Methods for Handling Missing Data: Complete-Case Analysis, Inverse Probability Weighting, and Multiple Imputation</summary>
+<summary><strong>A Comparison of Three Popular Methods for Handling Missing Data: Complete-Case Analysis, Inverse Probability Weighting, and Multiple Imputation<strong></summary>
 <br>
 
 The Dataset is from the Youth Cohort Time Series for England, Wales and Scotland, 1984-2002
