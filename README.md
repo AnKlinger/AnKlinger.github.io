@@ -9,12 +9,14 @@ Keep in mind that only publications that use data are listed here.
 
 <!-- Publication --> 
 <details>
-<summary><strong>A Comparison of Three Popular Methods for Handling Missing Data: Complete-Case Analysis, Inverse Probability Weighting, and Multiple Imputation</strong></summary>
-<br>
+  <summary><strong>A Comparison of Three Popular Methods for Handling Missing Data: Complete-Case Analysis, Inverse Probability Weighting, and Multiple Imputation</strong></summary>
+  <br>
 
-The Dataset is from the Youth Cohort Time Series for England, Wales and Scotland, 1984-2002
+  https://www.stratos-initiative.org/sites/default/files/2022-10/00491241221113873.pdf
 
-https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=5765
+  The Dataset is from the Youth Cohort Time Series for England, Wales and Scotland, 1984-2002
+
+  https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=5765
 
 </details>
 
