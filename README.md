@@ -43,6 +43,14 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8757" target="_blank">Publication Link</a>
+  <br><br>
+  <a href="http://publicifsv.sund.ku.dk/~pka/STRATOSTG8/" target="_blank">Dataset 1</a>
+  <br>
+  The PAD Dataset. The link brings you to the author's website, where you can click on "pad.rda" to download the dataset.
+  <br><br>
+  <a href="https://rochesterproject.org/" target="_blank">Dataset 2</a>
+  <br>
+  The NAFLD Dataset. The link brings you to the website of the Rochester Epidemiology Project. For further information on how the dataset in the paper was generated, see the <a href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsim.8757&file=SIM_8757_intensity_supplement.pdf" target="_blank">Supplement S1</a> from the supporting information in the paper under section 3.
   
 </details>
 
