@@ -109,6 +109,8 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Huebneretal-2020.pdf" target="_blank">Publication Link</a>
+  <br><br>
+  The publication uses data from a literature survey, conducted by the authors.
   
 </details>
 
