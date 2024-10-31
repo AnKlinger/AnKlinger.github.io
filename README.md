@@ -97,6 +97,8 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://www.stratos-initiative.org/sites/default/files/2021-03/Lee_2020_new%281%29.pdf" target="_blank">Publication Link</a>
+  <br><br>
+  The ALSPAC data used in the paper is the result of linking multiple publicly available datasets, as described in section 2.
   
 </details>
 
