@@ -85,6 +85,8 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.8741" target="_blank">Publication Link</a>
+  <br><br>
+  The data used in the paper is a simulation based on the "Promotion of Breastfeeding Intervention Trial". For further information and the necessary code for replication, see Appendix 1/2 under "Supporting Information".
   
 </details>
 
