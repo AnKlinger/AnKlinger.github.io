@@ -61,6 +61,8 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://stratos-initiative.org/sites/default/files/2023-07/McLernonetal-2023.pdf" target="_blank">Publication Link</a>
+  <br><br>
+  The breast cancer data for model development from the Netherlands and the breast cancer data for validation from Germany are not publicly available.
   
 </details>
 
@@ -71,6 +73,8 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://www.sciencedirect.com/science/article/pii/S104727971830156X?via%3Dihub" target="_blank">Publication Link</a>
+  <br><br>
+  The publication uses data from a literature survey, conducted by the authors.
   
 </details>
 
