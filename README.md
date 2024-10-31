@@ -121,6 +121,8 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://academic.oup.com/aje/article/192/8/1406/7135817?login=true" target="_blank">Publication Link</a>
+  <br><br>
+  "The data used in this paper was obtained through submission and approval of a manuscript proposal to the Hispanic Community Health Study/Study of Latinos Publications Committee, as described on the HCHS/SOL website. For more details, see <a href="https://sites.cscc.unc.edu/hchs/publications-pub" target="_blank">here</a>"
   
 </details>
 
