@@ -17,8 +17,6 @@ Keep in mind that only publications that use data are listed here.
   <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=5765" target="_blank">Dataset 1</a>
   <br>
   The Youth Cohort Time Series for England, Wales and Scotland, 1984-2002. Needs login to get access to data.
-  <br><br>
-  Test
 
 </details>
 
@@ -51,6 +49,8 @@ Keep in mind that only publications that use data are listed here.
   <a href="https://rochesterproject.org/" target="_blank">Dataset 2</a>
   <br>
   The NAFLD Dataset. The link brings you to the website of the Rochester Epidemiology Project. For further information on how the dataset in the paper was generated, see the <a href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsim.8757&file=SIM_8757_intensity_supplement.pdf" target="_blank">Supplement S1</a> from the supporting information in the paper under section 3.
+  <br><br>
+  The Advanced Ovarian Cancer Dataset cannot be found online. The authors of the paper refer to the book "Dynamic Prediction in Clinical Survival Analysis" for further information, and this is a direct citation from this book: "The data originate from two clinical trials comparing different combination chemotherapies that were carried out in The Netherlands around 1980. For details see Neijt et al. (1984) and Neijt et al. (1987)."
   
 </details>
 
