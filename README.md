@@ -57,7 +57,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Assessing Performance and Clinical Usefulness in Prediction Models With Survival Outcomes: Practical Guidance for Cox Proportional Hazards Models</strong></summary>
+  <summary><strong>McLernon DJ, Giardiello D, Van Calster B, Wynants L, van Geloven N, van Smeden M, Therneau T, Steyerberg EW, topic groups 6 and 8 of the STRATOS Initiative (2023): Assessing performance and clinical usefulness in prediction models with survival outcomes: practical guidance for Cox proportional hazards models</strong></summary>
   <br>
 
   <a href="https://stratos-initiative.org/sites/default/files/2023-07/McLernonetal-2023.pdf" target="_blank">Publication Link</a>
@@ -69,7 +69,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Epidemiologic analyses with error-prone exposures: review of current practice and recommendations</strong></summary>
+  <summary><strong>Shaw PA, Deffner V, Keogh R, Tooze JA, Dodd KW, Küchenhoff H, Kipnis V, Freedman LS on behalf of Measurement Error and Misclassification Topic Group (TG4) of the STRATOS Initiative (2018): Epidemiologic analyses with error-prone exposures: review of current practice and recommendations</strong></summary>
   <br>
 
   <a href="https://www.sciencedirect.com/science/article/pii/S104727971830156X?via%3Dihub" target="_blank">Publication Link</a>
@@ -81,7 +81,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Formulating causal questions and principled statistical answers</strong></summary>
+  <summary><strong>Goetghebeur E, le Cessie S, De Stavola B, Moodie E, Waernbaum I on behalf of the topic group Causal Inference (TG7) of the STRATOS initiative (2020): Formulating causal questions and principled statistical answers</strong></summary>
   <br>
 
   <a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.8741" target="_blank">Publication Link</a>
@@ -93,7 +93,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Framework for the treatment and reporting of missing data in observational studies: The Treatment And Reporting of Missing Data in Observational Studies framework</strong></summary>
+  <summary><strong>Lee KJ, Tilling K, Cornish RP, Little RJ, Bell ML, Goetghebeur E, Hogan JW, Carpenter JR for the STRATOS initiative (2021): Framework for the Treatment And Reporting of Missing data in Observational Studies: The TARMOS framework</strong></summary>
   <br>
 
   <a href="https://www.stratos-initiative.org/sites/default/files/2021-03/Lee_2020_new%281%29.pdf" target="_blank">Publication Link</a>
@@ -105,7 +105,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Hidden analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses</strong></summary>
+  <summary><strong>Huebner M, Vach W, le Cessie S, Schmidt CO, Lusa L on behalf of the Topic Group 'Initial Data Analysis' of the STRATOS Initiative (2020): Hidden analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses</strong></summary>
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Huebneretal-2020.pdf" target="_blank">Publication Link</a>
@@ -117,7 +117,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Issues in Implementing Regression Calibration Analyses</strong></summary>
+  <summary><strong>Boe LA, Shaw PA, Midthune D, Gustafson P, Kipnis V, Park E, Sotres-Alvarez D, Freedman L, on behalf of the Measurement Error and Misclassification Topic Group (TG4) of the STRATOS Initiative (2024): Issues in Implementing Regression Calibration Analyses</strong></summary>
   <br>
 
   <a href="https://academic.oup.com/aje/article/192/8/1406/7135817?login=true" target="_blank">Publication Link</a>
