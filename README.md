@@ -133,6 +133,10 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://www.stratos-initiative.org/sites/default/files/2021-09/e039921.full_.pdf" target="_blank">Publication Link</a>
+  <br><br>
+  <a href="https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Laboratory&CycleBeginYear=2015" target="_blank">Dataset used for Simulation Example</a>
+  <br>
+  "Data from 5092 subjects in the 2015–2016 National Health and Nutrition Examination Survey (NHANES) are used...", for further information see the chapter "AN EXAMPLE OF A STATISTICAL SIMULATION". 
   
 </details>
 
@@ -143,6 +147,10 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02294-3" target="_blank">Publication Link</a>
+  <br><br>
+  <a href="https://zenodo.org/records/7554815" target="_blank">Dataset 1</a>
+  <br>
+  The Bacteremia Dataset. Further information is found in the link.
   
 </details>
 
