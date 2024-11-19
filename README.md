@@ -210,7 +210,7 @@ Keep in mind that only publications that use data are listed here.
   <br>
   The TCGA Ovarian Cancer Dataset. The Dataset should be available somewhere on the website in the link.
   <br><br>
-  The plots are taken from <a href="https://bmjopen.bmj.com/content/7/4/e014467" target="_blank">here</a>, but no data is publicly available.
+  The CARDIIGAN Dataset is not publicly availabel.The plots are taken from <a href="https://bmjopen.bmj.com/content/7/4/e014467" target="_blank">here</a>.
 
   
   
@@ -224,6 +224,8 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Keoghetal-2020.pdf" target="_blank">Publication Link</a>
+  <br><br>
+  "The OPEN Study data that illustrate the methods presented in this paper are available upon request to RFAB@mail.nih.gov. The request should specify the dataset used in analyses presented in the papers by Keogh et al (2020) and Shaw et al (2020). More information about these data can be obtained at https://epi.grants.cancer.gov/past-initiatives/open/"
   
 </details>
 
@@ -234,6 +236,8 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Shawetal-2020.pdf" target="_blank">Publication Link</a>
+  <br><br>
+  "The OPEN Study data that illustrate the methods presented in this paper are available upon request to RFAB@mail.nih.gov. The request should specify the dataset used in analyses presented in the papers by Keogh et al (2020) and Shaw et al (2020). More information about these data can be obtained at https://epi.grants.cancer.gov/past-initiatives/open/"
   
 </details>
 
@@ -244,6 +248,10 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Wynants-Three%20myths-BMCmed.pdf" target="_blank">Publication Link</a>
+  <br><br>
+  <a href="https://static-content.springer.com/esm/art%3A10.1186%2Fs12916-019-1425-3/MediaObjects/12916_2019_1425_MOESM1_ESM.csv" target="_blank">Dataset 1</a>
+  <br>
+  The Dataset containing only predicted probabilities of malignancy by the ADNEX model and the true outcomes.
   
 </details>
 
@@ -254,5 +262,9 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://stratos-initiative.org/sites/default/files/2022-06/bmj-2021-069249.full_.pdf" target="_blank">Publication Link</a>
+  <br><br>
+  <a href="https://github.com/survival-lumc/ValidationCompRisks">Dataset 1</a>
+  <br>
+  The Breast Cancer Dataset.
   
 </details>
