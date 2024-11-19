@@ -161,6 +161,42 @@ Keep in mind that only publications that use data are listed here.
   <br>
 
   <a href="https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-02858-y" target="_blank">Publication Link</a>
+  <br><br>
+  <a href="https://www.bioconductor.org/packages/devel/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf" target="_blank">Dataset 1</a>
+  <br>
+  The Yoruba Dataset. Located on page 60-61 in the link is R code that will load the dataset.
+  <br><br>
+  <a href="https://www.nature.com/articles/nrg2825#Sec4" target="_blank">Dataset 2</a>
+  <br>
+  Data from the 1000 genomes project. This data was used for figure 2. The Link in the publication for "Code and Data" is unfortunately broken.
+  <br><br>
+  <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE2164" target="_blank">Dataset 3</a>
+  <br>
+  The GSE2164 Dataset. Data can be downloaded directly at the bottom of website.
+  <br><br>
+  The FLGROSS Dataset is referenced<a href="https://onlinelibrary.wiley.com/doi/10.1002/bimj.201300222" target="_blank">here</a>, but no download is available.
+  <br><br>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0378375807002571?via%3Dihub" target="_blank">Dataset 4</a>
+  <br>
+  The Lymphoma Dataset. Unfortunately the link in section 4.1 is broken.
+  <br><br>
+  <a href="https://montilab.github.io/BS831/articles/docs/quantileNormalization.html" target="_blank">Dataset 5</a>
+  <br>
+  The TCGA HNSCC Subset Dataset. Use the R code in the link to load the data.
+  <br><br>
+  <a href="[https://montilab.github.io/BS831/articles/docs/quantileNormalization.html](https://evayiwenwang.github.io/Managing_batch_effects/)" target="_blank">Dataset 6</a>
+  <br>
+  The Sponge Metagenomics Dataset. Use the R code in the link to load the data.
+  <br><br>
+  <a href="https://satijalab.org/seurat/archive/v1.4/pbmc3k_tutorial.html" target="_blank">Dataset 7</a>
+  <br>
+  The PBMC Dataset. The raw data is available from a link in the text at the very beginning.
+  <br><br>
+  <a href="https://s3-us-west-2.amazonaws.com/10x.files/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz" target="_blank">Dataset 8</a>
+  <br>
+  The 10X PBMC Dataset. A direct download link. The analysis referenced in the paper was conducted <a href="https://bioconductor.org/books/3.12/OSCA/clustering.html" target="_blank">here</a>.
+  
+  
   
 </details>
 
