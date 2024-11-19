@@ -9,7 +9,7 @@ Keep in mind that only publications that use data are listed here.
 
 <!-- Publication --> 
 <details>
-  <summary><strong>A Comparison of Three Popular Methods for Handling Missing Data: Complete-Case Analysis, Inverse Probability Weighting, and Multiple Imputation</strong></summary>
+  <summary><strong>Little R.J., Carpenter J.R. and Lee K.J. (2022): A Comparison of Three Popular Methods for Handling Missing Data: Complete-Case Analysis, Inverse Probability Weighting, and Multiple Imputation</strong></summary>
   <br>
 
   <a href="https://www.stratos-initiative.org/sites/default/files/2022-10/00491241221113873.pdf" target="_blank">Publication Link</a>
@@ -23,7 +23,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>A review of spline function procedures in R</strong></summary>
+  <summary><strong>Perperoglou A, Sauerbrei W, Abrahamowicz M, Schmid M on behalf of TG2 of the STRATOS initiative (2019): A review of spline function procedures in R</strong></summary>
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Perperoglou-Review%20of%20spline%20function%20procedures%20in%20R.pdf" target="_blank">Publication Link</a>
@@ -37,7 +37,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Analysis of time‐to‐event for observational studies: Guidance to the use of intensity models</strong></summary>
+  <summary><strong>Andersen PK, Perme MP, van Houwelingen HC, Cook RJ, Joly P, Martinussen T, Taylor JMG, Abrahamowicz M, Therneau TM for the STRATOS TG8 topic group (2020): Analysis of time-to-event for observational studies: Guidance to the use of intensity models</strong></summary>
   <br>
 
   <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8757" target="_blank">Publication Link</a>
