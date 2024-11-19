@@ -129,7 +129,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Introduction to statistical simulations in health research</strong></summary>
+  <summary><strong>Boulesteix AL, Groenwold R, Abrahamowicz M, Binder H, Briel M, Hornung R, Morris TP, Rahnenführer J, Sauerbrei W for the STRATOS Simulation Panel (2020): Introduction to statistical simulations in health research</strong></summary>
   <br>
 
   <a href="https://www.stratos-initiative.org/sites/default/files/2021-09/e039921.full_.pdf" target="_blank">Publication Link</a>
@@ -143,7 +143,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Regression without regrets – initial data analysis is a prerequisite for multivariable regression</strong></summary>
+  <summary><strong>Heinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M on behalf of TG2 and TG3 of the STRATOS initiative (2024): Regression without regrets –initial data analysis is a prerequisite for multivariable regression</strong></summary>
   <br>
 
   <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02294-3" target="_blank">Publication Link</a>
@@ -157,7 +157,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Statistical analysis of high-dimensional biomedical data: a gentle introduction to analytical goals, common approaches and challenges</strong></summary>
+  <summary><strong>Rahnenführer J, De Bin R, Benner A, Ambrogi F, Lusa L, Boulesteix AL, Migliavacca E, Binder H, Michiels S, Sauerbrei W, McShane L, for topic group “High-dimensional data” (TG9) of the STRATOS initiative (2023): Statistical analysis of high-dimensional biomedical data: a gentle introduction to analytical goals, common approaches and challenges</strong></summary>
   <br>
 
   <a href="https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-02858-y" target="_blank">Publication Link</a>
@@ -220,7 +220,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 1—Basic theory and simple methods of adjustment</strong></summary>
+  <summary><strong>Keogh RH, Shaw PA, Gustafson P, Carroll RJ, Deffner V, Dodd KW, Küchenhoff H, Tooze JA, Wallace M, Kipnis V, Freedman L (2020): STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 1 - Basic theory and simple methods of adjustment</strong></summary>
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Keoghetal-2020.pdf" target="_blank">Publication Link</a>
@@ -232,7 +232,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 2—More complex methods of adjustment and advanced topics</strong></summary>
+  <summary><strong>Shaw PA, Gustafson P, Carroll RJ, Deffner V, Dodd KW, Keogh RH, Kipnis V, Tooze JA, Wallace M, Küchenhoff H, Freedman L (2020): STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 2 - More complex methods of adjustment and advanced topics</strong></summary>
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Shawetal-2020.pdf" target="_blank">Publication Link</a>
@@ -244,7 +244,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Three myths about risk thresholds for prediction models</strong></summary>
+  <summary><strong>Wynants L, van Smeden M, McLernon DJ, Timmerman D, Steyerberg EW, Van Calster B on behalf of the Topic Group ‘Evaluating diagnostic tests and prediction models’ of the STRATOS initiative (2019): Three myths about risk thresholds for prediction models</strong></summary>
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Wynants-Three%20myths-BMCmed.pdf" target="_blank">Publication Link</a>
@@ -258,7 +258,7 @@ Keep in mind that only publications that use data are listed here.
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Validation of prediction models in the presence of competing risks: a guide through modern methods</strong></summary>
+  <summary><strong>van Geloven N, Giardiello D, Bonneville EF, Teece L, Ramspek CL, van Smeden M, Snell KIE, van Calster B, Pohar-Perme M, Riley RD, Putter H, Steyerberg E, on behalf of the STRATOS initiative (2022): Validation of predicition models in the presence of comepting risks: a guide through modern methods</strong></summary>
   <br>
 
   <a href="https://stratos-initiative.org/sites/default/files/2022-06/bmj-2021-069249.full_.pdf" target="_blank">Publication Link</a>
