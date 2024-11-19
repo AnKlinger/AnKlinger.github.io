@@ -195,6 +195,23 @@ Keep in mind that only publications that use data are listed here.
   <a href="https://s3-us-west-2.amazonaws.com/10x.files/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz" target="_blank">Dataset 8</a>
   <br>
   The 10X PBMC Dataset. A direct download link. The analysis referenced in the paper was conducted <a href="https://bioconductor.org/books/3.12/OSCA/clustering.html" target="_blank">here</a>.
+  <br><br>
+  The SSID Project Data is referenced <a href="https://www.degruyter.com/document/doi/10.1515/noise-2020-0011/html" target="_blank">here</a>, but no data is publicly available.
+  <br><br>
+  <a href="https://cran.r-project.org/web/packages/clustra/vignettes/clustra_vignette.html" target="_blank">Dataset 9</a>
+  <br>
+  The Trajectory Data. The link provides code for simulating this dataset from the package clustra.
+  <br><br>
+  <a href="https://bioconductor.org/packages/release/bioc/vignettes/topGO/inst/doc/topGO.pdf" target="_blank">Dataset 10</a>
+  <br>
+  The topGO Dataset. The data is built into the package, and the link goes to a guide on how to prepare and use it.
+  <br><br>
+  <a href="https://www.cancer.gov/ccg/access-data#ccg-genomic-data-resources-by-program" target="_blank">Dataset 11</a>
+  <br>
+  The TCGA Ovarian Cancer Dataset. The Dataset should be available somewhere on the website in the link.
+  <br><br>
+  The plots are taken from <a href="https://bmjopen.bmj.com/content/7/4/e014467" target="_blank">here</a>, but no data is publicly available.
+
   
   
   
