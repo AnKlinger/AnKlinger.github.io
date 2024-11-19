@@ -174,7 +174,7 @@ Keep in mind that only publications that use data are listed here.
   <br>
   The GSE2164 Dataset. Data can be downloaded directly at the bottom of website.
   <br><br>
-  The FLGROSS Dataset is referenced<a href="https://onlinelibrary.wiley.com/doi/10.1002/bimj.201300222" target="_blank">here</a>, but no download is available.
+  The FLGROSS Dataset is referenced <a href="https://onlinelibrary.wiley.com/doi/10.1002/bimj.201300222" target="_blank">here</a>, but no download is available.
   <br><br>
   <a href="https://www.sciencedirect.com/science/article/pii/S0378375807002571?via%3Dihub" target="_blank">Dataset 4</a>
   <br>
@@ -184,7 +184,7 @@ Keep in mind that only publications that use data are listed here.
   <br>
   The TCGA HNSCC Subset Dataset. Use the R code in the link to load the data.
   <br><br>
-  <a href="[https://montilab.github.io/BS831/articles/docs/quantileNormalization.html](https://evayiwenwang.github.io/Managing_batch_effects/)" target="_blank">Dataset 6</a>
+  <a href="https://evayiwenwang.github.io/Managing_batch_effects/" target="_blank">Dataset 6</a>
   <br>
   The Sponge Metagenomics Dataset. Use the R code in the link to load the data.
   <br><br>
