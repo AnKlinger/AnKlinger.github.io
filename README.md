@@ -1,4 +1,4 @@
-# STRATOS Publications Datasets
+<img src="stratos_logo.png"/>
 
 ## Information
 The high quality STRATOS publications use and analyse various datasets. This website should provide an easy overview of the datasets used for each publication, along with links to download datasets that are available.
