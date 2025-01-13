@@ -1,2 +1,8 @@
 theme: jekyll-theme-slate
 title: STRATOS Publications Datasets
+navbar:
+  left:
+    - href: About.md
+      text: About
+    - href: README.md
+      text: Other
