@@ -1,4 +1,4 @@
-<img src="stratos_logo.png"/>
+<img src="Image/stratos_logo.png"/>
 
 
  <!-- Tab links -->
