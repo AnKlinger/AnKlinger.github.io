@@ -4,7 +4,7 @@ title: "Content"
 permalink: /content/
 ---
 
-<img src="Image/stratos_logo.png"/>
+<img src="/Image/stratos_logo.png"/>
 
 <!-- Publication --> 
 <details>
