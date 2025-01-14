@@ -1,9 +1,8 @@
 theme: jekyll-theme-slate
 title: STRATOS Publications Datasets
+# Site navigation
 navbar_links:
-  - title: "Home"
-    url: "/"
-exclude:
-  - README.md                       # Exclude from processing
-include:
-  - content.md
+  - title: "About"
+    url: "/about/"   # Matches the permalink in about.md
+  - title: "Content"
+    url: "/content/" # Matches the permalink in content.md
