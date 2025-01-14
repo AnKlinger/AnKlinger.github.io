@@ -1,7 +1,7 @@
 ---
-layout: post            # Layout defined in your theme or custom HTML
+layout: page
 title: "About"
-date: 2025-01-01
-tags: [jekyll, markdown]
+permalink: /about/
 ---
-This is a test.
+# About Page
+This is the About page content.
