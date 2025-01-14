@@ -5,3 +5,5 @@ navbar_links:
     url: "/"
 exclude:
   - README.md                       # Exclude from processing
+include:
+  - content.md
