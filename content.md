@@ -1,8 +1,7 @@
 ---
-layout: post            # Layout defined in your theme or custom HTML
+layout: page
 title: "Content"
-date: 2025-01-01
-tags: [jekyll, markdown]
+permalink: /content/
 ---
 
 
