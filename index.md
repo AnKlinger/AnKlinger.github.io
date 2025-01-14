@@ -1,6 +1,6 @@
 ---
 layout: default       # Use a layout defined in your Jekyll theme or `_layouts/`
-title: "Welcome to My Site"
+title: "STRATOS Datasets"
 ---
 # Welcome to My Site!
 This is the homepage content.
