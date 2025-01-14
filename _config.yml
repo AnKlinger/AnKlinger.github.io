@@ -3,3 +3,5 @@ title: STRATOS Publications Datasets
 navbar_links:
   - title: "Home"
     url: "/"
+exclude:
+  - README.md                       # Exclude from processing
