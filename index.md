@@ -5,9 +5,10 @@ title: "Information"
 
 <img src="/Image/stratos_logo.png"/>
 
-# Welcome!
-If you want to learn more about the datasets our <a href="https://www.stratos-initiative.org/en/publications" target="_blank">STRATOS publications</a> use, you've come to the right place! STRATOS wants to guide data scientists to use best practise methods in data analysis, sometimes showcasing these methods on practical data examples.
+# Data sets used in STRATOS publications
 
-Every STRATOS publication that analyzes a dataset is listed here, together with the information if it is publicly available, and, if yes, a download link or instructions.
+This website hosts links to all open access data sets that were used in publications of the <a href="https://www.stratos-initiative.org/" target="_blank">STRATOS initiative</a> use. 
 
-<i>Last updated: 14-01-2025</i>
+Every STRATOS publication that analyzes a dataset is listed here, together with information on how to access the data if it is publicly available.
+
+<i>Last updated: 21-01-2025</i>

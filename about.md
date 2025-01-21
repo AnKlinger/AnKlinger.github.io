@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="/Image/stratos_logo.png"/>
 
-# About Page
-This is the About page content.
+# Impressum
 
-<b><i>Created by Andreas Klinger, Institute of Clinical Biometrics, Medical University of Vienna</i></b>
+
+<b><i>Created by Andreas Klinger and Georg Heinze, <a href="https://data-science.meduniwien.ac.at/en/kb"> Institute of Clinical Biometrics </a>, Center of Medical Data Science, Medical University of Vienna, Vienna, Austria</i></b>
