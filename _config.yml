@@ -3,7 +3,7 @@ title: STRATOS Datasets
 description: Information and download links to datasets used in STRATOS publications
 # Site navigation
 navbar_links:
-  - title: "Content"
+  - title: "Data sets"
     url: "/content/" # Matches the permalink in content.md
   - title: "About"
     url: "/about/"   # Matches the permalink in about.md
