@@ -1,5 +1,6 @@
 theme: minima
 title: STRATOS Datasets
+header_image: <img src="/Image/stratos_logo.png"/ style="height: 50px;">
 description: Information and download links to datasets used in STRATOS publications
 # Site navigation
 navbar_links:

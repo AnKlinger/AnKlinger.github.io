@@ -4,7 +4,7 @@ title: "Publications - Data sets"
 permalink: /content/
 ---
 
-<img src="/Image/stratos_logo.png"/>
+
 
 <!-- Publication --> 
 <details>

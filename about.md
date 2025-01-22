@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-<img src="/Image/stratos_logo.png"/>
+<img src="/Image/stratos_logo.png"/ style="height: 50px;">
 
 # Impressum
 

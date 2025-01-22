@@ -3,7 +3,7 @@ layout: page       # Use a layout defined in your Jekyll theme or `_layouts/`
 title: "Information"
 ---
 
-<img src="/Image/stratos_logo.png"/>
+
 
 # Data sets used in STRATOS publications
 
