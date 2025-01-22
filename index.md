@@ -1,6 +1,6 @@
 ---
 layout: page       # Use a layout defined in your Jekyll theme or `_layouts/`
-title: "Information"
+title: "Introduction"
 ---
 
 

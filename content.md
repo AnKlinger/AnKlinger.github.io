@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Publications - Data sets"
+title: "Data sets"
 permalink: /content/
 ---
 

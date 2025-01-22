@@ -1,9 +1,10 @@
 theme: minima
 title: STRATOS Datasets
-header_image:  /Image/stratos_logo.png
 description: Information and download links to datasets used in STRATOS publications
 # Site navigation
 navbar_links:
+  - title: "Introduction"
+    url: "/information/" # Matches the permalink in index.md
   - title: "Data sets"
     url: "/content/" # Matches the permalink in content.md
   - title: "About"
