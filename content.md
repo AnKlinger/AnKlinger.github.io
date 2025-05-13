@@ -9,7 +9,7 @@ permalink: /content/
 <!-- Publication --> 
 <details>
   <summary><strong>Little R.J., Carpenter J.R. and Lee K.J. (2022): A Comparison of Three Popular Methods for Handling Missing Data: Complete-Case Analysis, Inverse Probability Weighting, and Multiple Imputation</strong>
-  <br>
+  <br><br>
   <strong>Keywords:</strong> incomplete data, imputation, missing data, weighting</summary>
   <br>
 
