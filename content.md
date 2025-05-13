@@ -8,11 +8,11 @@ permalink: /content/
 
 <!-- Publication --> 
 <details>
-  <summary><strong>Little R.J., Carpenter J.R. and Lee K.J. (2022): A Comparison of Three Popular Methods for Handling Missing Data: Complete-Case Analysis, Inverse Probability Weighting, and Multiple Imputation</strong></summary>
+  <summary><strong>Little R.J., Carpenter J.R. and Lee K.J. (2022): A Comparison of Three Popular Methods for Handling Missing Data: Complete-Case Analysis, Inverse Probability Weighting, and Multiple Imputation</strong>
+  <br>
+  <strong>Keywords:</strong> incomplete data, imputation, missing data, weighting</summary>
   <br>
 
-  <strong>Keywords:</strong> incomplete data, imputation, missing data, weighting
-  <br><br>
   <a href="https://www.stratos-initiative.org/sites/default/files/2022-10/00491241221113873.pdf" target="_blank">Publication Link</a>
   <br><br>
   <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=5765" target="_blank">Dataset 1</a>
