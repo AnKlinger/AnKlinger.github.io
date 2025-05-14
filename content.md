@@ -24,7 +24,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Perperoglou A, Sauerbrei W, Abrahamowicz M, Schmid M on behalf of TG2 of the STRATOS initiative (2019): A review of spline function procedures in R</strong></summary>
+  <summary><strong>Perperoglou A, Sauerbrei W, Abrahamowicz M, Schmid M on behalf of TG2 of the STRATOS initiative (2019): A review of spline function procedures in R</strong>
+  <br><br>
+  <strong>Keywords:</strong> Multivariable modelling, Functional form of continuous covariates</summary>
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Perperoglou-Review%20of%20spline%20function%20procedures%20in%20R.pdf" target="_blank">Publication Link</a>
@@ -38,7 +40,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Andersen PK, Perme MP, van Houwelingen HC, Cook RJ, Joly P, Martinussen T, Taylor JMG, Abrahamowicz M, Therneau TM for the STRATOS TG8 topic group (2020): Analysis of time-to-event for observational studies: Guidance to the use of intensity models</strong></summary>
+  <summary><strong>Andersen PK, Perme MP, van Houwelingen HC, Cook RJ, Joly P, Martinussen T, Taylor JMG, Abrahamowicz M, Therneau TM for the STRATOS TG8 topic group (2020): Analysis of time-to-event for observational studies: Guidance to the use of intensity models</strong>
+  <br><br>
+  <strong>Keywords:</strong> censoring, Cox regression model, hazard function, immortal time bias, multistate model, prediction, STRATOS initiative, survival analysis, time-dependent covariates</summary>
   <br>
 
   <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8757" target="_blank">Publication Link</a>
@@ -58,7 +62,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>McLernon DJ, Giardiello D, Van Calster B, Wynants L, van Geloven N, van Smeden M, Therneau T, Steyerberg EW, topic groups 6 and 8 of the STRATOS Initiative (2023): Assessing performance and clinical usefulness in prediction models with survival outcomes: practical guidance for Cox proportional hazards models</strong></summary>
+  <summary><strong>McLernon DJ, Giardiello D, Van Calster B, Wynants L, van Geloven N, van Smeden M, Therneau T, Steyerberg EW, topic groups 6 and 8 of the STRATOS Initiative (2023): Assessing performance and clinical usefulness in prediction models with survival outcomes: practical guidance for Cox proportional hazards models</strong>
+  <br><br>
+  <strong>Keywords:</strong> NA</summary>
   <br>
 
   <a href="https://stratos-initiative.org/sites/default/files/2023-07/McLernonetal-2023.pdf" target="_blank">Publication Link</a>
@@ -70,7 +76,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Shaw PA, Deffner V, Keogh R, Tooze JA, Dodd KW, Küchenhoff H, Kipnis V, Freedman LS on behalf of Measurement Error and Misclassification Topic Group (TG4) of the STRATOS Initiative (2018): Epidemiologic analyses with error-prone exposures: review of current practice and recommendations</strong></summary>
+  <summary><strong>Shaw PA, Deffner V, Keogh R, Tooze JA, Dodd KW, Küchenhoff H, Kipnis V, Freedman LS on behalf of Measurement Error and Misclassification Topic Group (TG4) of the STRATOS Initiative (2018): Epidemiologic analyses with error-prone exposures: review of current practice and recommendations</strong>
+  <br><br>
+  <strong>Keywords:</strong> Air pollution, Cohort studies, Measurement error, Misclassification, Nutritional epidemiology, Physical activity</summary>
   <br>
 
   <a href="https://www.sciencedirect.com/science/article/pii/S104727971830156X?via%3Dihub" target="_blank">Publication Link</a>
@@ -82,7 +90,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Goetghebeur E, le Cessie S, De Stavola B, Moodie E, Waernbaum I on behalf of the topic group Causal Inference (TG7) of the STRATOS initiative (2020): Formulating causal questions and principled statistical answers</strong></summary>
+  <summary><strong>Goetghebeur E, le Cessie S, De Stavola B, Moodie E, Waernbaum I on behalf of the topic group Causal Inference (TG7) of the STRATOS initiative (2020): Formulating causal questions and principled statistical answers</strong>
+  <br><br>
+  <strong>Keywords:</strong> causation, instrumental variable, inverse probability weighting, matching, potential outcomes, propensity score</summary>
   <br>
 
   <a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.8741" target="_blank">Publication Link</a>
@@ -94,7 +104,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Lee KJ, Tilling K, Cornish RP, Little RJ, Bell ML, Goetghebeur E, Hogan JW, Carpenter JR for the STRATOS initiative (2021): Framework for the Treatment And Reporting of Missing data in Observational Studies: The TARMOS framework</strong></summary>
+  <summary><strong>Lee KJ, Tilling K, Cornish RP, Little RJ, Bell ML, Goetghebeur E, Hogan JW, Carpenter JR for the STRATOS initiative (2021): Framework for the Treatment And Reporting of Missing data in Observational Studies: The TARMOS framework</strong>
+  <br><br>
+  <strong>Keywords:</strong> Missing data, Multiple imputation, Observational studies, Reporting, ALSPAC, STRATOS initiative</summary>
   <br>
 
   <a href="https://www.stratos-initiative.org/sites/default/files/2021-03/Lee_2020_new%281%29.pdf" target="_blank">Publication Link</a>
@@ -106,7 +118,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Huebner M, Vach W, le Cessie S, Schmidt CO, Lusa L on behalf of the Topic Group 'Initial Data Analysis' of the STRATOS Initiative (2020): Hidden analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses</strong></summary>
+  <summary><strong>Huebner M, Vach W, le Cessie S, Schmidt CO, Lusa L on behalf of the Topic Group 'Initial Data Analysis' of the STRATOS Initiative (2020): Hidden analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses</strong>
+  <br><br>
+  <strong>Keywords:</strong> Initial data analysis, Reporting, Observational studies, STRATOS initiative</summary>
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Huebneretal-2020.pdf" target="_blank">Publication Link</a>
@@ -118,7 +132,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Boe LA, Shaw PA, Midthune D, Gustafson P, Kipnis V, Park E, Sotres-Alvarez D, Freedman L, on behalf of the Measurement Error and Misclassification Topic Group (TG4) of the STRATOS Initiative (2024): Issues in Implementing Regression Calibration Analyses</strong></summary>
+  <summary><strong>Boe LA, Shaw PA, Midthune D, Gustafson P, Kipnis V, Park E, Sotres-Alvarez D, Freedman L, on behalf of the Measurement Error and Misclassification Topic Group (TG4) of the STRATOS Initiative (2024): Issues in Implementing Regression Calibration Analyses</strong>
+  <br><br>
+  <strong>Keywords:</strong> incomplete data, imputation, missing data, weighting</summary>
   <br>
 
   <a href="https://academic.oup.com/aje/article/192/8/1406/7135817?login=true" target="_blank">Publication Link</a>
@@ -130,7 +146,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Boulesteix AL, Groenwold R, Abrahamowicz M, Binder H, Briel M, Hornung R, Morris TP, Rahnenführer J, Sauerbrei W for the STRATOS Simulation Panel (2020): Introduction to statistical simulations in health research</strong></summary>
+  <summary><strong>Boulesteix AL, Groenwold R, Abrahamowicz M, Binder H, Briel M, Hornung R, Morris TP, Rahnenführer J, Sauerbrei W for the STRATOS Simulation Panel (2020): Introduction to statistical simulations in health research</strong>
+  <br><br>
+  <strong>Keywords:</strong> incomplete data, imputation, missing data, weighting</summary>
   <br>
 
   <a href="https://www.stratos-initiative.org/sites/default/files/2021-09/e039921.full_.pdf" target="_blank">Publication Link</a>
@@ -144,7 +162,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Heinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M on behalf of TG2 and TG3 of the STRATOS initiative (2024): Regression without regrets –initial data analysis is a prerequisite for multivariable regression</strong></summary>
+  <summary><strong>Heinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M on behalf of TG2 and TG3 of the STRATOS initiative (2024): Regression without regrets –initial data analysis is a prerequisite for multivariable regression</strong>
+  <br><br>
+  <strong>Keywords:</strong> incomplete data, imputation, missing data, weighting</summary>
   <br>
 
   <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02294-3" target="_blank">Publication Link</a>
@@ -158,7 +178,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Rahnenführer J, De Bin R, Benner A, Ambrogi F, Lusa L, Boulesteix AL, Migliavacca E, Binder H, Michiels S, Sauerbrei W, McShane L, for topic group “High-dimensional data” (TG9) of the STRATOS initiative (2023): Statistical analysis of high-dimensional biomedical data: a gentle introduction to analytical goals, common approaches and challenges</strong></summary>
+  <summary><strong>Rahnenführer J, De Bin R, Benner A, Ambrogi F, Lusa L, Boulesteix AL, Migliavacca E, Binder H, Michiels S, Sauerbrei W, McShane L, for topic group “High-dimensional data” (TG9) of the STRATOS initiative (2023): Statistical analysis of high-dimensional biomedical data: a gentle introduction to analytical goals, common approaches and challenges</strong>
+  <br><br>
+  <strong>Keywords:</strong> incomplete data, imputation, missing data, weighting</summary>
   <br>
 
   <a href="https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-02858-y" target="_blank">Publication Link</a>
@@ -221,7 +243,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Keogh RH, Shaw PA, Gustafson P, Carroll RJ, Deffner V, Dodd KW, Küchenhoff H, Tooze JA, Wallace M, Kipnis V, Freedman L (2020): STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 1 - Basic theory and simple methods of adjustment</strong></summary>
+  <summary><strong>Keogh RH, Shaw PA, Gustafson P, Carroll RJ, Deffner V, Dodd KW, Küchenhoff H, Tooze JA, Wallace M, Kipnis V, Freedman L (2020): STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 1 - Basic theory and simple methods of adjustment</strong>
+  <br><br>
+  <strong>Keywords:</strong> incomplete data, imputation, missing data, weighting</summary>
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Keoghetal-2020.pdf" target="_blank">Publication Link</a>
@@ -233,7 +257,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Shaw PA, Gustafson P, Carroll RJ, Deffner V, Dodd KW, Keogh RH, Kipnis V, Tooze JA, Wallace M, Küchenhoff H, Freedman L (2020): STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 2 - More complex methods of adjustment and advanced topics</strong></summary>
+  <summary><strong>Shaw PA, Gustafson P, Carroll RJ, Deffner V, Dodd KW, Keogh RH, Kipnis V, Tooze JA, Wallace M, Küchenhoff H, Freedman L (2020): STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 2 - More complex methods of adjustment and advanced topics</strong>
+  <br><br>
+  <strong>Keywords:</strong> incomplete data, imputation, missing data, weighting</summary>
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Shawetal-2020.pdf" target="_blank">Publication Link</a>
@@ -245,7 +271,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>Wynants L, van Smeden M, McLernon DJ, Timmerman D, Steyerberg EW, Van Calster B on behalf of the Topic Group ‘Evaluating diagnostic tests and prediction models’ of the STRATOS initiative (2019): Three myths about risk thresholds for prediction models</strong></summary>
+  <summary><strong>Wynants L, van Smeden M, McLernon DJ, Timmerman D, Steyerberg EW, Van Calster B on behalf of the Topic Group ‘Evaluating diagnostic tests and prediction models’ of the STRATOS initiative (2019): Three myths about risk thresholds for prediction models</strong>
+  <br><br>
+  <strong>Keywords:</strong> incomplete data, imputation, missing data, weighting</summary>
   <br>
 
   <a href="https://test1.drupaltest.imbi.uni-freiburg.de/sites/default/files/2021-10/Wynants-Three%20myths-BMCmed.pdf" target="_blank">Publication Link</a>
@@ -259,7 +287,9 @@ permalink: /content/
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>van Geloven N, Giardiello D, Bonneville EF, Teece L, Ramspek CL, van Smeden M, Snell KIE, van Calster B, Pohar-Perme M, Riley RD, Putter H, Steyerberg E, on behalf of the STRATOS initiative (2022): Validation of predicition models in the presence of comepting risks: a guide through modern methods</strong></summary>
+  <summary><strong>van Geloven N, Giardiello D, Bonneville EF, Teece L, Ramspek CL, van Smeden M, Snell KIE, van Calster B, Pohar-Perme M, Riley RD, Putter H, Steyerberg E, on behalf of the STRATOS initiative (2022): Validation of predicition models in the presence of comepting risks: a guide through modern methods</strong>
+  <br><br>
+  <strong>Keywords:</strong> incomplete data, imputation, missing data, weighting</summary>
   <br>
 
   <a href="https://stratos-initiative.org/sites/default/files/2022-06/bmj-2021-069249.full_.pdf" target="_blank">Publication Link</a>
